@@ -6,3 +6,4 @@ ssh bandit.labs.overthewire.org -p 2220 -l bandit3
 # cd inhere/
 # ls -la
 # cat .hidden
+
